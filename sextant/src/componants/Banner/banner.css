@@ -23,17 +23,6 @@
     text-align: center;
 }
 
-
-.form {
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
-}
-
-.form > .btn {
-    color: #000;
-}
-
 @media screen and (max-width: 980px) {
     .container > h1 {
         color: darkslategrey;
