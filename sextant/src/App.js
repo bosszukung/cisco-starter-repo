@@ -2,6 +2,8 @@ import './App.css';
 import Navbar from './componants/navbar';
 import Banner from './componants/Banner/banner';
 import UserIP from './componants/IP/userIP'
+import Latency from './componants/Latency/latency';
+
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
       <Navbar/>
       <Banner/>
       <UserIP/>
+      <Latency/>
+
     </div>
   );
 }
