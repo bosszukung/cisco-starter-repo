@@ -8,7 +8,7 @@ function App() {
     <div>
       <Navbar/>
       <Banner/>
-      <UserIP></UserIP>
+      <UserIP/>
     </div>
   );
 }

@@ -3,14 +3,15 @@
   margin: 0;
   padding: 0;
   font-family: 'PT Sans', sans-serif;
+  border-radius: 5%;
 }
 
-.banner
-.ip {
+.banner,
+.ip
+{
   display: flex;
-  height: 90vh;
+  height: 50vh;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  font-size: 3rem;
 }
